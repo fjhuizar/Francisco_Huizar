@@ -1,2 +1,2 @@
-# Francisco_Huizar
+# Francisco Huizar
 Personal repository for all about me!
