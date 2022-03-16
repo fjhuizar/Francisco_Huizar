@@ -1,2 +1,1 @@
-# Francisco Huizar
-Personal repository for all about me!
+Please see my personal website [here](https://fjhuizar.wixsite.com/website).
